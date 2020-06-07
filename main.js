@@ -14,3 +14,4 @@ function orderPizza() {
     console.log(pizza.addToppings());
 };
 
+orderPizza();
